@@ -1,0 +1,18 @@
+{
+    "name": "pac3",
+    "version": "0.1.0",
+    "description": "Personalized Automation with Custom Copilot Client",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "https-proxy-agent": "^7.0.6",
+      "js-yaml": "^4.1.0",
+      "node-fetch": "^3.3.2"
+    },
+    "type": "module",
+    "devDependencies": {}
+  }
